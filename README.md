@@ -1,5 +1,8 @@
-#I'm Mohammad Ahmadi
-<h3 align="center">A passionate data analyst from Afghanistan</h3>
+# Mohammad Ahmadi
+[email me](mailto:mohammad.srak1999@gmail.com)
+
+## About Me
+I am passionate about data and computer science and believe that it may make a surprising and unpredictable future for all of us. That said, learning how to code is a sort of mandatory subject for anyone with any background. Therefore, spreading coding culture is something, I believe, a command responsibility.
 
 - 🌱 I’m currently learning **Basics of Computer and Data Science through the MIT Emerging Talent Certificate Program**
 
