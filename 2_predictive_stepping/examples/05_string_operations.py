@@ -37,3 +37,4 @@ lower = text.lower()
 stripped = "  Python  ".strip()
 
 print("end of script")
+ a = ("end of an era  ")

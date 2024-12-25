@@ -9,7 +9,8 @@ Python programs can take string input from CLI users.
 
 empty_string = input("Hit the enter key without typing anything.")
 
-your_name = input("Enter your name: ")
+
+your_name = input("MOhammad Ahmadi: ")
 
 surprise = input("(you can use newlines in your prompt) \nSurprise me: ")
 
