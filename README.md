@@ -11,10 +11,10 @@ I’m currently learning **_Basics of Computer and Data Science through the MIT 
 
 ---
 ## My Tech/Analysis Skills
-**SPSS
-**MS Excel
-**SQL
-**Python
+- **SPSS**
+- **MS Excel**
+- **SQL**
+- **Python**
 
 ---
 
